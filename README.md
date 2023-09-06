@@ -46,3 +46,6 @@ Silakan buka situs http://javawebmedia.com/blog/source-code-gratis-website-compa
 - Halaman untuk mengelola galeri video
 - Halaman untuk mengelola unduhan/download
 - Halaman konfigurasi website
+
+# Download File Full
+https://drive.google.com/file/d/1IVa1eTZhZkxcDuibP8Z1_HctnaJ8pJlt/view?usp=drive_link
