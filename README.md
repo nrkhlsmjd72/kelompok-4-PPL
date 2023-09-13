@@ -7,9 +7,9 @@ Website ini dilengkapi dengan fasilitas halaman front end dan back end. Front en
 Silakan buka situs http://javawebmedia.com/blog/source-code-gratis-website-company-profile-dengan-laravel-7 untuk petunjuk cara installasi.
 
 # Username dan password
-- Halaman Login: http://localhost/cmslaravel7/login
-- Username: javawebmedia
-- Password: javawebmedia
+- Halaman Login: http://localhost/TA_PPL
+- Username: admin
+- Password: admin
 
 # Cara Install CMS Laravel 7
 - Unduh file source code di https://github.com/javawebmedia/cmslaravel7/releases atau https://github.com/javawebmedia/cmslaravel7
